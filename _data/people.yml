@@ -1,12 +1,9 @@
 instructors:
-  - name: Dr. Hany El-Ghaish
-    profile_pic: /_images/pp/hany.jpg
-    webpage: mailto:hany_elghaish@f-eng.tanta.edu.eg
   - name: Dr. Moustafa Alzantot
     profile_pic: /_images/pp/moustafa.png
     webpage: mailto:m_alzantot@f-eng.tanta.edu.eg
 
 teaching_assistants:
-  - name: Eng. Heba Fathy
-    profile_pic: /_images/pp/heba.png
-    webpage: mailto:heba.fathi@f-eng.tanta.edu.eg
+  - name: Eng. Hesham Rezk
+    profile_pic: /_images/pp/hesham.png
+    webpage: mailto:Hesham.Magdy@f-eng.tanta.edu.eg

@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Welcome to the Mobile Computing Course!
+Welcome to the Information Systems Design Course!
