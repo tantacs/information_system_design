@@ -3,7 +3,7 @@ course_name: Information Systems Design
 course_description: "This course provides an introduction to information systems design."
 course_semester: "Spring 2021"
 
-baseurl: "/information_system_design" # the subpath of your site, e.g. /blog/
+baseurl: "/information_systems_design" # the subpath of your site, e.g. /blog/
 url: "http://tantacs.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Tanta University"
