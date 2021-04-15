@@ -9,4 +9,4 @@ links:
       name: Lecture slides
 ---
 **Suggested Readings:**
-- [Chapters 8 and 9 - Agile software development, principles, patterns, and practices](/static_files/LectureNotes/reading_week3.pdf)
+- [Chapters 8 and 9 - Agile software development, principles, patterns, and practices](../static_files/LectureNotes/reading_week3.pdf)
