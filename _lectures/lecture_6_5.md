@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-05-22
-title: Lecture  6.6 (Design  Patterns Contd.)
+title: Lecture  6.5 (Design  Patterns Contd.)
 tldr: "Decorator Design Pattern; Observer Design Pattern"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
